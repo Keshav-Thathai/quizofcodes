@@ -1,0 +1,28 @@
+body{
+    font-family:"sans-sarif";
+    background:greenyellow;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.quiz-box{
+    background:"white";
+    padding: 30px;
+    width: 320px;
+    border-end-end-radius: 30px;
+    text-align: center;
+}
+.option{
+    width: 100%;
+     padding: 10px;
+    border:none;
+    margin-top: 0cap;
+    
+    border-radius: 5px;
+    cursor:pointer;
+
+}
+.option:hover{
+    
+    background:grey;
+}
